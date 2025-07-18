@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
@@ -36,5 +37,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0792-binary-search](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
