@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0792-binary-search](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0792-binary-search) |
 ## Binary Search
 |  |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0231-power-of-two) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
