@@ -59,7 +59,6 @@ class Solution {
             currentNode.next = list1;
             currentNode = list1;
             list1 = list1.next;
-            System.out.println("i am here");
         }
         while(list2 != null && list1 == null)
         {
