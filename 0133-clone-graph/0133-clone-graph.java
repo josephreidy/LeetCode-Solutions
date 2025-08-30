@@ -18,20 +18,21 @@ class Node {
 }
 */
 
-class Solution {
+class Solution 
+{
     public Node cloneGraph(Node node) 
     {
         HashMap<Node, Node> oldToNew = new HashMap<Node, Node>();
         return dfs(node, oldToNew);
     }
 
-    private Node dfs (Node node, HashMap<Node, Node> oldToNew)
+    private Node dfs(Node node, HashMap<Node, Node> oldToNew)
     {
-        if (node == null)
+        if(node == null)
         {
             return null;
         }
-        if (oldToNew.containsKey(node))
+        if(oldToNew.containsKey(node))
         {
             return oldToNew.get(node);
         }
@@ -39,12 +40,11 @@ class Solution {
         {
             Node copy = new Node(node.val);
             oldToNew.put(node, copy);
-            for (Node neighbour : node.neighbors)
+            for(Node neighbor : node.neighbors)
             {
-                copy.neighbors.add(dfs(neighbour, oldToNew));
+                copy.neighbors.add(dfs(neighbor, oldToNew));
             }
             return copy;
         }
-
     }
 }
