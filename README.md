@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 ## Array
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0792-binary-search](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 ## Binary Search
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0374-guess-number-higher-or-lower](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0792-binary-search) |
+| [1046-max-consecutive-ones-iii](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 ## Interactive
 |  |
 | ------- |
@@ -94,5 +97,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 <!---LeetCode Topics End-->
