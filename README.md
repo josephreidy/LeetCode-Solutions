@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0133-clone-graph](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0268-missing-number](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [1391-counting-elements](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1391-counting-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## String
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1391-counting-elements](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1391-counting-elements) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 ## Binary Search
 |  |
