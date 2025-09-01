@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0133-clone-graph](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0133-clone-graph) |
+| [0268-missing-number](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## String
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0268-missing-number](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0643-maximum-average-subarray-i](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -69,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -95,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
