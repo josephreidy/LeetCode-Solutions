@@ -92,10 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0133-clone-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0133-clone-graph) |
 ## Graph
 |  |
@@ -122,4 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1297-maximum-number-of-balloons](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
+## Tree
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
