@@ -94,11 +94,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0133-clone-graph) |
+| [1254-deepest-leaves-sum](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1254-deepest-leaves-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0133-clone-graph) |
+| [1254-deepest-leaves-sum](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1254-deepest-leaves-sum) |
 ## Graph
 |  |
 | ------- |
@@ -128,8 +130,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [1254-deepest-leaves-sum](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1254-deepest-leaves-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [1254-deepest-leaves-sum](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1254-deepest-leaves-sum) |
 <!---LeetCode Topics End-->
