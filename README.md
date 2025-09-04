@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -136,4 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1254-deepest-leaves-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
