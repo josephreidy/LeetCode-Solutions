@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0133-clone-graph](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0268-missing-number](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [1098-largest-unique-number](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1098-largest-unique-number) |
 | [1297-maximum-number-of-balloons](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0953-reverse-only-letters](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0953-reverse-only-letters) |
 | [1297-maximum-number-of-balloons](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1297-maximum-number-of-balloons) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [1297-maximum-number-of-balloons](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/josephreidy/LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
