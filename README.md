@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0268-missing-number](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [0782-jewels-and-stones](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
 | [1098-largest-unique-number](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1098-largest-unique-number) |
 | [1297-maximum-number-of-balloons](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0782-jewels-and-stones](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
 | [0953-reverse-only-letters](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0953-reverse-only-letters) |
 | [1297-maximum-number-of-balloons](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
