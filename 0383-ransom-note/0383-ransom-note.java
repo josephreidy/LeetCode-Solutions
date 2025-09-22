@@ -10,14 +10,12 @@ class Solution
             charsInMag.put(currentChar, charsInMag.getOrDefault(currentChar, 0)+1);
         }
         
-        boolean returnValue = true;
-        
         for(int i = 0; i < ransomNote.length(); i++)
         {
             char currentChar = ransomNote.charAt(i);
             if(!charsInMag.containsKey(currentChar))
             {
-                returnValue = false;
+                return false;
             }
             else
             {
@@ -28,7 +26,7 @@ class Solution
                 }
             }
         }
-        return returnValue;
+        return true;
             
     }
 }
