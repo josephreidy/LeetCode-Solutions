@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1391-counting-elements](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1391-counting-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2634-minimum-common-value](https://github.com/josephreidy/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/josephreidy/LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 ## String
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1391-counting-elements](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1391-counting-elements) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [2634-minimum-common-value](https://github.com/josephreidy/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/josephreidy/LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [2634-minimum-common-value](https://github.com/josephreidy/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
 ## Interactive
 |  |
 | ------- |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0953-reverse-only-letters](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [2634-minimum-common-value](https://github.com/josephreidy/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
 ## Depth-First Search
 |  |
 | ------- |
