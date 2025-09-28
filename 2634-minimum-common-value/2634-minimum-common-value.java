@@ -14,14 +14,10 @@ class Solution {
         {
             if (hsNums1.contains(num))
             {
-                min = Math.min(num, min);
-                commonNumExists = true;
+                return num;
             }
         }
-        if(commonNumExists)
-        {
-            return min;
-        }
-        else return -1;
+    
+        return -1;
     }
 }
