@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1391-counting-elements](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1391-counting-elements) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1833-find-the-highest-altitude](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1833-find-the-highest-altitude) |
 | [2634-minimum-common-value](https://github.com/josephreidy/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/josephreidy/LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Binary Search
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1833-find-the-highest-altitude](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1833-find-the-highest-altitude) |
 ## Counting
 |  |
 | ------- |
