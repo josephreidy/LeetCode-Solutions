@@ -40,6 +40,8 @@ class Solution {
 
         //With that in mind, create another fast pointer n / 2 ahead of slow. Now, just iterate n / 2 times from head to find every pair sum slow.val + fast.val.
 
+        /*
+        
         ListNode dummy = head;
         while(dummy != null)
         {
@@ -47,6 +49,8 @@ class Solution {
             System.out.println();
             dummy = dummy.next;
         }
+
+        */
 
         int maximumValue = 0;
         ListNode slow2 = head;
