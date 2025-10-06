@@ -30,10 +30,8 @@ class Solution {
             }
             else if(s.equals(".."))
             {
-                System.out.println("trigger");
                 if(stack.size() > 0)
                 {
-                    System.out.println("trigger");
                     stack.pop();
                 }
             }
