@@ -17,25 +17,25 @@ class Solution {
             graph.get(y).add(x);
         }
 
-        HashSet<Integer> seen = new HashSet();
+        boolean[] seen = new boolean[n];
         //System.out.println("std out works");
         return dfs(source, destination, seen, graph);
 
     }
 
-    boolean dfs(int node, int dest, HashSet<Integer> seen, ArrayList<ArrayList<Integer>> graph)
+    boolean dfs(int node, int dest, boolean[] seen, ArrayList<ArrayList<Integer>> graph)
     {
         if(node == dest)
         {
             //System.out.println(node);
             return true;
         }
-        seen.add(node);
+        seen[node] = true;
         ArrayList<Integer> adjacent = graph.get(node);
         for(int value : adjacent)
         {
             boolean foundDest = false;
-            if(!seen.contains(value))
+            if(seen[value] == false)
             {
                 foundDest = foundDest || dfs(value, dest, seen, graph);
                 if (foundDest == true) return true;
