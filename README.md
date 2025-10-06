@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [1254-deepest-leaves-sum](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1254-deepest-leaves-sum) |
 ## Breadth-First Search
 |  |
@@ -132,11 +133,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [1254-deepest-leaves-sum](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1254-deepest-leaves-sum) |
 ## Graph
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0133-clone-graph) |
+| [0547-number-of-provinces](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
 | ------- |
@@ -197,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/josephreidy/LeetCode-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
