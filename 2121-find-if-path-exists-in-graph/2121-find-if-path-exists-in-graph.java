@@ -1,12 +1,13 @@
 class Solution {
     public boolean validPath(int n, int[][] edges, int source, int destination) 
     {
-        HashMap<Integer, ArrayList<Integer>> graph = new HashMap();
+        //HashMap<Integer, ArrayList<Integer>> graph = new HashMap();
+        ArrayList<ArrayList<Integer>> graph = new ArrayList();
 
         for(int i = 0; i < n; i++)
         {
             ArrayList<Integer> list = new ArrayList<Integer>();
-            graph.put(i, list);
+            graph.add(list);
         }
         for(int[] edge : edges)
         {
@@ -22,7 +23,7 @@ class Solution {
 
     }
 
-    boolean dfs(int node, int dest, HashSet<Integer> seen, HashMap<Integer, ArrayList<Integer>> graph)
+    boolean dfs(int node, int dest, HashSet<Integer> seen, ArrayList<ArrayList<Integer>> graph)
     {
         if(node == dest)
         {
