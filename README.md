@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-counting-elements](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1391-counting-elements) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1833-find-the-highest-altitude](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1833-find-the-highest-altitude) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/josephreidy/LeetCode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2634-minimum-common-value](https://github.com/josephreidy/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/josephreidy/LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Binary Search
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [1254-deepest-leaves-sum](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1254-deepest-leaves-sum) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/josephreidy/LeetCode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/josephreidy/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/josephreidy/LeetCode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Sorting
 |  |
 | ------- |
