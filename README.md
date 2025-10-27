@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/josephreidy/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3830-find-closest-person](https://github.com/josephreidy/LeetCode-Solutions/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0953-reverse-only-letters) |
 | [1297-maximum-number-of-balloons](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/josephreidy/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Sliding Window
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1833-find-the-highest-altitude](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1833-find-the-highest-altitude) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/josephreidy/LeetCode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/josephreidy/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2634-minimum-common-value](https://github.com/josephreidy/LeetCode-Solutions/tree/master/2634-minimum-common-value) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/josephreidy/LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Binary Search
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/josephreidy/LeetCode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/josephreidy/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Sorting
 |  |
 | ------- |
