@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
 | [0953-reverse-only-letters](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0953-reverse-only-letters) |
 | [1297-maximum-number-of-balloons](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1297-maximum-number-of-balloons) |
+| [1764-maximum-repeating-substring](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1764-maximum-repeating-substring) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/josephreidy/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Sliding Window
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [1764-maximum-repeating-substring](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1764-maximum-repeating-substring) |
 ## Memoization
 |  |
 | ------- |
@@ -232,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0204-count-primes) |
+## String Matching
+|  |
+| ------- |
+| [1764-maximum-repeating-substring](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1764-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
