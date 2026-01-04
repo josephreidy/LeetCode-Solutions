@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0830-largest-triangle-area](https://github.com/josephreidy/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1284-four-divisors](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1284-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/josephreidy/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/josephreidy/LeetCode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1098-largest-unique-number](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1098-largest-unique-number) |
+| [1284-four-divisors](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1284-four-divisors) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1391-counting-elements](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1391-counting-elements) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/josephreidy/LeetCode-Solutions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
